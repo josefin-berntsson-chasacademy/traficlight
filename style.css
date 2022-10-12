@@ -1,0 +1,66 @@
+body {background-color: lightgray;
+
+}
+
+.pink1{
+    background-color: pink;
+    width: 150px;
+    height: 75px;
+    margin:auto;
+}
+
+.pink2{
+    background-color: pink;
+    width: 75px;
+    height: 75px;
+    margin-left: auto;
+    margin-top: 70px;
+
+}
+.pink3{
+    background-color: rgb(144, 31, 50);
+    width: 75px;
+    height: 75px;
+    margin-top: 70px;
+
+}
+
+.bb{
+    background-color: white;
+    height: 528px;
+    width: 193px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    padding-top: 5px;
+}
+
+.box1, .box2, .box3{
+    
+    border: solid 15px;
+    width: 150px;
+    height:150px;
+    margin-bottom: 5px;
+    
+}
+
+.box1 {
+    margin-bottom: 5px;
+   background-color: rgb(251, 168, 182);
+border-color: hsl(350, 92%, 76%);
+}
+
+.box2{
+    background-color: rgb(243, 135, 153);
+border-color: rgb(241, 99, 122);
+}
+
+
+.box3{
+    background-color: rgb(247, 69, 98);
+    border-color: rgb(242, 31, 66);
+   margin-bottom: 5px;
+}
